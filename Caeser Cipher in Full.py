@@ -1,4 +1,5 @@
 import string
+# This is how we get the alphabet in to encode/decode
 
 
 def valid_check(choice, options):
